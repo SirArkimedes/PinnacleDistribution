@@ -1,0 +1,6 @@
+﻿{
+  "DataProvider": "sqlserver",
+  "DataConnectionString": "Data Source=pinn410server.database.windows.net;Initial Catalog=pinn410DB_Copy;Integrated Security=False;Persist Security Info=False;User ID=jonassmith;Password=Foster72",
+  //"DataConnectionString": "Data Source=.\\SQLEXPRESS;Initial Catalog=testDB;Integrated Security=True;Persist Security Info=False",
+  "RawDataSettings": {}
+}
