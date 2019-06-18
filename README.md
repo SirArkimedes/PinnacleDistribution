@@ -1,4 +1,4 @@
-# Pinnacle Distribution
+# <a href="https://pinnacledistro.com/"> Pinnacle Distribution </a>
 > A E-commerce application for Pinnacle Hemp wholesale customers.  
 
 This application allows for Pinnacle Hemp to have an outlet specific for their wholesale customers. It allowed for more freedom to sales representatives, and better rates for those buying in bulk. I used the open source project <a href="https://github.com/nopSolutions/nopCommerce"> nopCommerce </a> as a good stepping stone on where to get started. 
